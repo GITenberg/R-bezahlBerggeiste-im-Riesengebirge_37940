@@ -1,0 +1,29 @@
+_repo: R-bezahlBerggeiste-im-Riesengebirge_37940
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37940-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Koch, Rosalie
+    birthdate: 1811
+    deathdate: 1880
+    gutenberg_agent_id: '39143'
+    url: http://www.gutenberg.org/2009/agents/39143
+description: ''
+gutenberg_bookshelf: DE Kinderbuch
+gutenberg_issued: '2011-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37940'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GR'
+- !lcsh 'Folklore -- Germany'
+- !lcsh 'Rübezahl (Legendary character)'
+title: "Rübezahl\r\nNeue Sammlung der schönsten Sagen und Märchen von dem Berggeiste\
+  \ im Riesengebirge"
+url: http://www.gutenberg.org/ebooks/37940
